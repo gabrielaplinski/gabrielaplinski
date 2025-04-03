@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gabrielaplinski
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML5 e CSS3
+- 📫 How to reach me: gabriela.dev@outlook.com and +5551985734221
+- 😄 Pronouns: she/her
