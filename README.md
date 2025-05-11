@@ -5,7 +5,7 @@ Sou Gabriela Plinski, estudante de desenvolvimento web! Aprendendo a transformar
 
 ## ✨ Sobre mim
 
-- Atualmente estudando **HTML5, CSS3 e JavaScript**
+- Atualmente estudando **JavaScript**
 - Focada em criar interfaces acessíveis, responsivas e com personalidade
 - Gosto de gatos, plantas e código bem identado!
 
@@ -25,24 +25,38 @@ Sou Gabriela Plinski, estudante de desenvolvimento web! Aprendendo a transformar
 
 > Aqui estão alguns dos projetos que estou desenvolvendo enquanto aprendo:
 
-### 🔗 Projeto Android - Curso em Vídeo (https://gabrielaplinski.github.io/projeto-android)
-> Mini Projeto do Curso em Vídeo para o curso de HTML5/CSS3.  
+### 🔗 Projeto Login (https://gabrielaplinski.github.io/projeto-login)
+> Projeto Media Query HTML5/CSS  
 > 🛠️ **Stack:** HTML5, CSS3  
-> ✨ Destaques: menu, responsividade de vídeos externos  
+> ✨ Destaques: form, media query
+
+---
+
+### 🔗 Projeto Social (https://gabrielaplinski.github.io/projeto-social)
+> Projeto Redes Sociais Curso em Vídeo HTML5/CSS  
+> 🛠️ **Stack:** HTML5, CSS3  
+> ✨ Destaques: menu, responsividade
 
 ---
 
 ### 🔗 Projeto Cordel (https://gabrielaplinski.github.io/projeto-cordel)
 > Mini Projeto do Curso em Vídeo com adaptações.  
 > 🛠️ **Stack:** HTML5, CSS3   
-> 🧩 Funcionalidades: efeito parallax, responsividade  
+> ✨ Destaques: efeito parallax, responsividade  
+
+---
+
+### 🔗 Projeto Android - Curso em Vídeo (https://gabrielaplinski.github.io/projeto-android)
+> Mini Projeto do Curso em Vídeo para o curso de HTML5/CSS3.  
+> 🛠️ **Stack:** HTML5, CSS3  
+> ✨ Destaques: menu, responsividade de vídeos externos
 
 ---
 
 ## Estudando atualmente
 
-- CSS Flexbox e Grid
 - JavaScript
+- TypeScript
 
 ---
 
