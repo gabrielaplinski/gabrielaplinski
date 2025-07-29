@@ -71,8 +71,7 @@ Estou aberta a parcerias, freelas e contribuições open source!
 
 ## Como me encontrar
 
-- 🌐 [Portfólio] EM CONSTRUÇÃO
-- 💼 [LinkedIn] https://www.linkedin.com/in/gabriela-piovesan-plinski/
+- 💼 https://www.linkedin.com/in/gabriela-piovesan-plinski/
 - 📧 gabriela.dev@outlook.com
 
 ---
