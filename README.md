@@ -6,7 +6,7 @@ Sou Gabriela Plinski, estudante de desenvolvimento web! Aprendendo a transformar
 ## ✨ Sobre mim
 
 - Cursando Sistemas para Internet - Desenvolvimento Web
-- Também me aprimorando em **JavaScript**
+- Também me aprimorando em **JavaScript**, **TypeScript**, **NodeJS**
 - Focada em criar interfaces acessíveis, responsivas e com personalidade
 - Gosto de gatos, plantas e código bem identado!
 
