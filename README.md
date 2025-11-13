@@ -54,7 +54,7 @@ Sou Gabriela Plinski, estudante de desenvolvimento web! Aprendendo a transformar
 
 ---
 
-### 🔗 E algumas challenges que estou realizando no Frontend Mentor (https://www.frontendmentor.io/profile/gabrielaplinski)
+### 🔗 E alguns desafios que estou realizando para aprimorar minhas habilidades no Frontend Mentor (https://www.frontendmentor.io/profile/gabrielaplinski)
 
 ## Estudando atualmente
 
