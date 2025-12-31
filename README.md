@@ -1,6 +1,6 @@
 ## 👋 Oi, eu sou a Gabriela Plinski
 
-Desenvolvedora web em formação, focada em **front-end**.
+Desenvolvedora web em formação. 
 
 ### 🚀 Em aprendizado
 - JavaScript
